@@ -77,7 +77,7 @@ if pilihan == 'Long Distance Relationship':
     'Berempati dan menghabiskan waktu untuk bercerita tentang hari ini'
     'Memastikan kamu selalu bahagia dalam menjalani hari demi hari saat jarak memisahkan.'
     'Terimkasih jarak, kamu telah mengajarkan kami makna selalu RINDU setiap saat'
-    "Aku telpon ya" "boleh telpon ngga" "lagi dimana"'
+    '(Aku telpon ya), (boleh telpon ngga), (lagi dimana)'
     'hahahha kalimat hangat yang harusnya banyak tertulis di ruang obrolan kita'
     'rindu itu unik ya! rindu tidak pernah memberikan kesempatan pada rasa lelah menghilang dengan tidur.'
     'tapi rindu memberikan kesempatan pada rasa lelah menghilang dengan cukup mendengar suaramu'
